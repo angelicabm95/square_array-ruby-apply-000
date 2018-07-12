@@ -5,5 +5,3 @@ def square_array(numbers)
   numbers.each { |x| new_num << (x**2) }
   return new_num
 end
-
-new_num
