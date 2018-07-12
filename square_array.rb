@@ -1,3 +1,3 @@
 num = []
 
-numbers.each { |x| num << x ** 2
+numbers.each { |x| num << x ** 2}
