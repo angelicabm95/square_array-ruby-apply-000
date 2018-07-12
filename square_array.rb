@@ -1,3 +1,3 @@
 num = []
 
-numbers.each { |x| 
+numbers.each { |x| num
