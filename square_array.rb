@@ -4,5 +4,5 @@ def square_array(numbers)
   puts numbers
   puts 
   
-  
+  numbers.each
 end
