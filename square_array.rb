@@ -1,4 +1,5 @@
 num = []
 
 numbers.each { |x| num << x ** 2}
-return 
+return num
+end
