@@ -1,8 +1,3 @@
 def square_array(numbers)
   numbers = [1, 2, 3]
-  
-  puts numbers
-  puts 
-  
-  numbers.each(*(2))
 end
