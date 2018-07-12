@@ -1,3 +1,3 @@
 num = []
 
-numbers
+numbers.each
